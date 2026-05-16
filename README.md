@@ -19,11 +19,15 @@ If you want a full cost breakdown, check out the spreadsheet I made for this pro
 This design was made to be easily replicable for the average hobbyist, and if your interested in creating your own, I created this guide to help at every step.
 
 1. Gather the Necessary Files(All files / folders referenced can be found at the top of this repo)
-   -Download the 
+   - Download the STL files found in folder Fume Extractor STLs
 3. Gather the Materials
-  -Order any missing components from the BOM list below
-  -
-
+   - Order any missing components from the BOM list below
+   - Upload the STL files to a 3D printing software of your choice and print the case, OR alternatively order the STL files to a vender which offers 3D printing services if you don't have access to a 3D printer
+4. Assemble
+   - Gather your parts needed
+   - Use a solder pen with the M2 insert attachment to heat up the inserts and place them into their designated spots on the model(see design photos)
+   - Place objects as shown in the design photo
+   - Use M2 screws to screw the case into place
 
 # BOM
 | Material      | Quantity      | Cost($CAD)     | Link          |
