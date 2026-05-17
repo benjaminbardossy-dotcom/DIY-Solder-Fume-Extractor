@@ -14,15 +14,15 @@ If you want a full cost breakdown, check out the spreadsheet I made for this pro
 
 ## The filter
 ### Pre-Filter -> HEPA -> Activated Carbon
-For my fume extractor, I decided to add a multi stage filtration system. The media is arranged as shown above. The pre-filter acts as a barrier to catch large particles which may stick to and clog the finer filter media such as the HEPA filter. This extends the lifetime of both the fan and other filter media. The HEPA filter serves as the solution to trapping finer particles. It effectively filters out 99.97% of particles with a size of 0.3 microns([source](https://www.epa.gov/indoor-air-quality-iaq/what-hepa-filter)), and even filters out smaller particles(0.3 microns is just the benchmark for measuring effectiveness). I still included an activated carbon layer, since it is still best to also remove any remaining VOCs.
+For my fume extractor, I decided to add a multi stage filtration system since I found this to be the best option for both filtration and longevity. The media is arranged as shown above. The pre-filter acts as a barrier to catch large particles which may stick to and clog the finer filter media such as the HEPA filter. This extends the lifetime of both the fan and other filter media. The HEPA filter serves as the solution to trapping finer particles. It effectively filters out 99.97% of particles with a size of 0.3 microns([source](https://www.epa.gov/indoor-air-quality-iaq/what-hepa-filter)), and even filters out smaller particles(0.3 microns is just the benchmark for measuring effectiveness). I still included an activated carbon layer, since it is still best to also remove any remaining VOCs.
 
 ## The Case
 Before creating my case, I thought of what I wanted in a fume extractor. I wanted an easily printed case with internals made from components readily available to the average hobbyist, and I wanted it to be cheaper than the extractors available online. To do so I created a case which prints in seperate parts and is attached by M2 inserts and screws, a top which screws off to reveal both the filter media and pc fan, and an open source design which can be easily modified to fit any hobbyists components. As for the price, I managed to keep it at a cost of just under $22 CAD for one build.
 ## How It Fits Together
-Side:\
+Side / Front:\
 <img width="410" height="410" alt="Side_edited (1)" src="https://github.com/user-attachments/assets/1e06c3fe-344d-4b58-806d-d3827657d2cf" />
 <img width="410" height="410" alt="Front_edited" src="https://github.com/user-attachments/assets/57885e21-308c-4dcb-a1a6-68c18f1a06b8" />\
-Side:\
+Back / Top:\
 <img width="410" height="410" alt="Back_edited" src="https://github.com/user-attachments/assets/c6dcfed1-e9df-4d00-8ab1-3fb8ecae626c" />
 <img width="410" height="410" alt="Top_edited" src="https://github.com/user-attachments/assets/e3d0728d-d780-4f31-bd1a-a8e0fcaa8edc" />
 
