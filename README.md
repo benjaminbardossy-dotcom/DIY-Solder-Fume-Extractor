@@ -2,7 +2,7 @@
 <img width="802" height="719" alt="image" src="https://github.com/user-attachments/assets/35c947b6-7a79-48b8-b657-3b1425ff4c3d" />
 
 # Why Make Your Own? / Why I Made This
-While looking for a good solder fume extractor online, I found that many of the cheap solder fume extractors sold online don't effectively remove the harmful particles created from soldering. These fume extractors often only feature an activiated carbon filter, making them ineffective at removing a lot of the harmful particles associated with soldering. Other than the filter media, there's also no guarantee of the strength of the fan, or lifetime of the filter. Once either of those die theres no telling how costly or hard it will be to replace. 
+While looking for a good solder fume extractor online, I found that many of the cheaper solder fume extractors sold online don't effectively remove the harmful particles created from soldering. These fume extractors often only feature an activiated carbon filter, making them ineffective at removing a lot of the harmful particles associated with soldering. Other than the filter media, there's also no guarantee of the strength of the fan, or lifetime of the filter. Once either of those die theres no telling how costly or hard it will be to replace. 
 ### But Why is Activated Carbon Ineffective?
 While activated carbon is great at removing the smell associated with soldering, it falls flat when attempting to filter out the smaller harmful particles. Activated carbon mainly removes volatile organic compounds(VOCs), which are responsable for the smell associated with soldering. However, activated carbon is not nearly as effective at trapping other small particles created from soldering, since it cannot reliably catch them.
 
@@ -37,7 +37,7 @@ This design was made to be easily replicable for the average hobbyist, and if yo
    - Upload the STL files to a 3D printing software of your choice and print the case, OR alternatively order the STL files to a vender which offers 3D printing services if you don't have access to a 3D printer
 4. Assemble
    - Gather your parts needed
-   - Use a solder pen with the M2 insert attachment to heat up the inserts and place them into their designated spots on the model(see design photos)
+   - Use a solder pen with the M2 insert attachment to heat up the inserts and place them into their designated spots on the model(see [how it fits together](#how-it-fits-together))
    - Superglue the switch into place in its designated spot
    - Cut the head off of the 12V adapter to expose the positive and negative wires
    - Solder the positive wire to one end of the switch, and the negative to the other
