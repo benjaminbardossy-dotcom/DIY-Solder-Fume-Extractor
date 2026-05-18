@@ -28,7 +28,7 @@ Back / Top:\
 
 
 # Creating Your Own
-This design was made to be easily replicable for the average hobbyist, and if you're interested in creating your own, I created this guide to help at every step. This project is intended to be made when you have old components laying around, in this case a used computer fan. This project is cheapest when using a used fan. If you have a used fan you want to use, but it doesn't fit the dimensions(80mm*80mm), I recommend downloading the native CAD files for Fusion 360, and editing the dimensions of the box and exporting your own STLs.
+This design was made to be easily replicable for the average hobbyist, and if you're interested in creating your own, I created this guide to help at every step. This project is intended to be made when you have old components laying around, in this case a used computer fan. This project is cheapest when using a used fan. If you have a used fan you want to use, but it doesn't fit the dimensions(80mm*80mm), I recommend downloading the native CAD files for Fusion 360 which can be found under the folder "Fusion 360 File", and editing the dimensions of the box and exporting your own STLs.
 
 1. Gather the Necessary Files(All files / folders referenced can be found at the top of this repo)
    - Download the STL files found in folder Fume Extractor STLs
