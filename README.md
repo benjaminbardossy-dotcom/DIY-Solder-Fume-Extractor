@@ -23,7 +23,7 @@ Side / Front:\
 <img width="410" height="410" alt="Side_edited (1)" src="https://github.com/user-attachments/assets/1e06c3fe-344d-4b58-806d-d3827657d2cf" />
 <img width="410" height="410" alt="Front_edited" src="https://github.com/user-attachments/assets/57885e21-308c-4dcb-a1a6-68c18f1a06b8" />\
 Back / Top:\
-<img width="410" height="410" alt="Back_edited" src="https://github.com/user-attachments/assets/c6dcfed1-e9df-4d00-8ab1-3fb8ecae626c" />
+<img width="410" height="410" alt="Back_edited (1)" src="https://github.com/user-attachments/assets/d8ef9bcd-ede6-4648-a953-85aca71d8483" />
 <img width="410" height="410" alt="Top_edited" src="https://github.com/user-attachments/assets/e3d0728d-d780-4f31-bd1a-a8e0fcaa8edc" />
 
 
