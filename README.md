@@ -18,6 +18,10 @@ For my fume extractor, I decided to add a multi stage filtration system since I 
 
 ## The Case
 Before creating my case, I thought of what I wanted in a fume extractor. I wanted an easily printed case with internals made from components readily available to the average hobbyist, and I wanted it to be cheaper than the extractors available online. To do so I created a case which prints in separate parts and is attached by M2 inserts and screws, a top which screws off to reveal both the filter media and pc fan, and an open source design which can be easily modified to fit any hobbyist's components. As for the price, I managed to keep it at a cost of just under $22 CAD for one build.
+
+## The Working Build
+<img width="360" height="202" alt="avgk1a" src="https://github.com/user-attachments/assets/1ce073ce-28be-436b-bb0c-2f8ad357adf3" />
+
 ## How It Fits Together
 Side / Front:\
 <img width="410" height="410" alt="Side_edited (1)" src="https://github.com/user-attachments/assets/1e06c3fe-344d-4b58-806d-d3827657d2cf" />
@@ -38,7 +42,7 @@ This design was made to be easily replicable for the average hobbyist, and if yo
 4. Assemble
    - Gather the needed parts
    - Use a solder pen with the M2 insert attachment to heat up the inserts and place them into their designated spots on the model(see [how it fits together](#how-it-fits-together))
-   - Superglue the switch into place in its designated spot
+   - Snap switch into place in its designated spot
    - Cut the head off of the 12V adapter to expose the positive and negative wires
    - Solder the positive wire to one end of the switch, and the negative to the other
    - Strip the ends of the positive and negative wires of the fan
