@@ -1,5 +1,5 @@
 # DIY Solder Fume Extractor
-<img width="802" height="719" alt="image" src="https://github.com/user-attachments/assets/35c947b6-7a79-48b8-b657-3b1425ff4c3d" />
+<img width="2048" height="1536" alt="Banner" src="https://github.com/user-attachments/assets/8df13492-7800-4d49-b795-f9b931f45489" />
 
 # Why Make Your Own? / Why I Made This
 While looking for a good solder fume extractor online, I found that many of the cheaper solder fume extractors sold online were still relatively expensive for the purpose they served. The other major issue I found was that many weren't actually able to effectively remove many of the harmful particles created from soldering. These fume extractors often only feature an activated carbon filter, making them ineffective at removing a lot of the harmful particles associated with soldering. Other than the filter media, there's also no guarantee of the strength of the fan, or lifetime of the filter. Once either of those die, there's no telling how costly or hard it will be to replace. 
