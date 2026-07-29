@@ -9,8 +9,9 @@ While activated carbon is great at removing the smell associated with soldering,
 ### My Solution
 Create your own! Creating a good fume extractor shouldn't be hard or expensive, which is why I decided to make this project.
 
-If you want a full cost breakdown, check out the spreadsheet I made for this project [here](https://docs.google.com/spreadsheets/d/1kI0-QvfijKjpn8jp-Lh3tqiNpf6TtSSo3WHpc60xSvA/edit?gid=0#gid=0)
+If you want a full cost breakdown, check out the spreadsheet I made for this project [here](https://docs.google.com/spreadsheets/d/1kI0-QvfijKjpn8jp-Lh3tqiNpf6TtSSo3WHpc60xSvA/edit?gid=0#gid=0)\
 To watch a short demo, click on this link: [Youtube](https://www.youtube.com/watch?v=zQ6AQj5pzdw)
+
 # The Design
 
 ## The filter
