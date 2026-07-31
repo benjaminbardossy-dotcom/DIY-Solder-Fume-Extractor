@@ -32,6 +32,8 @@ Back / Top:\
 <img width="410" height="410" alt="Back_edited (1)" src="https://github.com/user-attachments/assets/d8ef9bcd-ede6-4648-a953-85aca71d8483" />
 <img width="410" height="410" alt="Top_edited" src="https://github.com/user-attachments/assets/e3d0728d-d780-4f31-bd1a-a8e0fcaa8edc" />
 
+## Wiring Diagram
+<img width="833" height="355" alt="image" src="https://github.com/user-attachments/assets/8ba7b582-7c69-4559-afd0-6873b696db59" />
 
 # Creating Your Own
 This design was made to be easily replicable for the average hobbyist, and if you're interested in creating your own, I created this guide to help at every step. This project is intended to be made when you have old components laying around, in this case a used computer fan. This project is cheapest when using a used fan. If you have a used fan you want to use, but it doesn't fit the dimensions(80mm*80mm), I recommend downloading the native CAD files for Fusion 360 which can be found under the folder "Fusion 360 File", and editing the dimensions of the box and exporting your own STLs.
@@ -46,9 +48,8 @@ This design was made to be easily replicable for the average hobbyist, and if yo
    - Use a solder pen with the M2 insert attachment to heat up the inserts and place them into their designated spots on the model(see [how it fits together](#how-it-fits-together))
    - Snap switch into place in its designated spot
    - Cut the head off of the 12V adapter to expose the positive and negative wires
-   - Solder the positive wire to one end of the switch, and the negative to the other
    - Strip the ends of the positive and negative wires of the fan
-   - Solder the positive wire to the switch where the positive wire of the 12V adapter is wired, do the same for the negative terminal
+   - Solder as shown in the [wiring diagram](#wiring-diagram)
    - Place objects as shown in the design photo
    - Use M2 nuts to secure fan
    - Use M2 screws to screw the case into place
