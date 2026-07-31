@@ -57,6 +57,7 @@ This design was made to be easily replicable for the average hobbyist, and if yo
    - Screw top on
 
 # BOM
+*For a downloadable csv file, see the fume_extractor_BOM.csv attached with all other files in this repo
 | Material      | Quantity      | Cost($CAD)     | Link          |
 | ------------- | ------------- | ------------- | ------------- |
 | M2 Screws| 12 | 0.26 | https://www.amazon.ca/780Pcs-Screws-Metric-Washers-Steel-Black/dp/B0D7QCS5FL?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=A3GSZ4RKHEJUDQ&th=1 |
